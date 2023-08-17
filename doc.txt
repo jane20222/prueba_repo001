@@ -1,1 +1,3 @@
-Hola GIT
+Hola GIT ahí sí
+NO importa que cueste, hay que dejar configurado GIT
+
